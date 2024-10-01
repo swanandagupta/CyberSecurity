@@ -503,7 +503,7 @@ body {
     filter: drop-shadow(10px 5px 5px #3fd9e4);
 }
 
-.page3, .page1, .page5{
+.page3, .page1{
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -609,6 +609,7 @@ h1{
 }
 
 .page5 {
+    background-size: cover;
     padding-top: 2em; /* Add padding to create space above the description */
     position: relative; /* Ensure positioning for the absolute elements */
 }
