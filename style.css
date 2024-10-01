@@ -503,7 +503,7 @@ body {
     filter: drop-shadow(10px 5px 5px #3fd9e4);
 }
 
-.page3, .page1{
+.page3, .page1, .page5{
     background-repeat: no-repeat;
     background-size: cover;
 }
